@@ -20,8 +20,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ solution URL](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub?share=true)
+- Live Site URL: [ live site URL](https://stupendous-custard-ba43c9.netlify.app/)
 
 ### Built with
 
